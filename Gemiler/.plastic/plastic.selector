@@ -1,0 +1,4 @@
+repository "Gemiler@yildizkasabi68@cloud"
+  path "/"
+    br "/main"
+    co "/main"
